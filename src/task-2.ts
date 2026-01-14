@@ -1,6 +1,5 @@
 //Задача 2. Інтерфейси (файл task-2.ts)
 
-// Оголошуємо інтерфейс
 interface Product {
   readonly id: number;
   title: string;
