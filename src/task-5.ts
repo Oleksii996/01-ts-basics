@@ -13,4 +13,3 @@ function logStatus(status: "loading" | "success" | "error"): void {
 logStatus("loading");
 logStatus("success");
 logStatus("error");
-logStatus("unknown");
